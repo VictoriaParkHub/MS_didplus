@@ -265,6 +265,10 @@ main{
     color: #878787;
 }
 
+.check{
+    color: #1365ee;
+}
+
 .nav02 ul li img{
     display: inline-block;
     vertical-align: middle;
